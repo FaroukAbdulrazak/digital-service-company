@@ -24,14 +24,15 @@ The implementation focuses on:
 
 ### 2. Running the Project (recommended)
 
-From `C:\Users\Farouk\Desktop\degital-service-company`:
-
 ```bash
 npm install
-npm run dev
+npm run build
+npm run preview
 ```
 
-Then open the URL Vite prints in the terminal (typically `http://localhost:5173`).
+Then open the URL Vite prints in the terminal (typically `http://localhost:4173`).
+
+or you can visit online (`https://digital-service-company.vercel.app/`)
 
 ---
 
